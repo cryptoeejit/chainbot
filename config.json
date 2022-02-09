@@ -1,0 +1,37 @@
+{
+  "prefix":"_",
+  "bot":{  
+    "name": "tipbot-chc",
+    "iconurl": "https://raw.githubusercontent.com/ChainBotMaster/chainbot/master/bot/image/newchc-01.png",
+    "debug":false
+  },
+  "chccore":{  
+      "port":"11995",
+      "username":"rpcchc",
+      "password":"rpcchc0001"
+  },
+  "role":{  
+      "member":"Member",
+      "support":"Support"
+  },
+  "mongodb":{
+  "url": "",
+  "db": ""
+  },
+  "Channels":{  
+      "workshop":"576906782266359844",
+      "pub":"597628166839861259",
+      "poor-house":"813345018244890664",
+      "chaintipster":"597384734997479444, 813345018244890664",
+      "spanish":"380141655539318785",
+    "supportprivate":"",
+      "joinchannels":"813345018244890664"
+  },
+  "id":{  
+      "self":"343344941302284298"        
+  },
+  "coin":{  
+      "symbol":"chc",
+      "explorer":"https://explorer.chaincoin.org/"
+  }
+}
